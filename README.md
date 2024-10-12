@@ -1,5 +1,3 @@
-<br><br>
-
 # Nyarch Grub Theme
 ### This is the Grub theme for the [Nyarch linux distro](https://github.com/NyarchLinux/NyarchLinux)
 
@@ -11,11 +9,11 @@ It conains art from [ventoy-themes](https://github.com/odiegoduarte/ventoy-theme
 <br> 
 
 - ### Manual installation Install
-  -  Download the theme using `git clone https://github.com/princess-wawa/Nyarch-Grub-Theme`
-  -  Copy the files into ur Grub folder using `sudo cp -r Nyarch-Grub-Theme/Nyarch-theme /boot/grub/themes`
-  -  Then edit the name of the grub theme you want in `/etc/default/grub` using `sudo nano /etc/defaults/grub`
+  -  Download the theme using ```git clone https://github.com/princess-wawa/Nyarch-Grub-Theme```
+  -  Copy the files into ur Grub folder using ````sudo cp -r Nyarch-Grub-Theme/Nyarch-theme /boot/grub/themes````
+  -  Then edit the name of the grub theme you want in `/etc/default/grub` using ````sudo nano /etc/defaults/grub````
        - Find the line starting with `#GRUB_THEME` and change it to `GRUB_THEME="/boot/grub/themes/Nyarch-theme/theme.txt"`
-  -  Upgrade your git config using `sudo grub-mkconfig -o /boot/grub/grub.cfg`
+  -  Upgrade your git config using ```sudo grub-mkconfig -o /boot/grub/grub.cfg```
   -  finally, you can `reboot`
 
 <br><br> 
