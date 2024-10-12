@@ -7,6 +7,7 @@ It conains art from [ventoy-themes](https://github.com/odiegoduarte/ventoy-theme
 <img src="preview.png" alt="Nyarch Grub theme preview" width="400"> <img src="terminal.png" alt="Nyarch Grub terminal preview" width="400"> 
 
 <br> 
+
 ### Manual installation
  -  Download the theme using ```git clone https://github.com/princess-wawa/Nyarch-Grub-Theme```
  -  Copy the files into ur Grub folder using ````sudo cp -r Nyarch-Grub-Theme/Nyarch-theme /boot/grub/themes````
