@@ -4,7 +4,7 @@
 It conains art from [ventoy-themes](https://github.com/odiegoduarte/ventoy-themes) grub theme, [FlatSense](https://github.com/ForsetGump1952/FlatSense) grub theme and the background by [raviolimavioli](https://www.pixiv.net/en/artworks/89596288) 
 <br><br> 
 
-<img src="preview.png" alt="Nyarch Grub theme preview" width="400"> <img src="terminal.png" alt="Nyarch Grub terminal preview" width="400"> 
+<img src="preview.png" alt="Nyarch Grub theme preview" width="400">
 
 <br> 
 
